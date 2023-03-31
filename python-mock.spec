@@ -3,7 +3,7 @@
 
 Name:           python-%{pypi_name}
 Version:        4.0.3
-Release:        1
+Release:        2
 Summary:        Rolling backport of unittest.mock for all Pythons
 Group:          Development/Python
 License:        None
