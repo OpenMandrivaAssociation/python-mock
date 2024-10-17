@@ -7,7 +7,7 @@ Release:        2
 Summary:        Rolling backport of unittest.mock for all Pythons
 Group:          Development/Python
 License:        None
-URL:            http://mock.readthedocs.org/en/latest/
+URL:            https://mock.readthedocs.org/en/latest/
 Source0:        %{pypi_name}-%{version}.tar.gz
 BuildArch:      noarch
 
